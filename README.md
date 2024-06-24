@@ -60,7 +60,8 @@ The `send_requests.sh` script is responsible for performing the performance test
 To run a sequential test with 100 requests and a parallel test with 10 requests, you can adjust the script as follows:
 
 ```sh
-# Collecting baseline data for 60 seconds
+
+## Collecting baseline data for 60 seconds
 collect_baseline_data baseline_60s.csv
 
 # Performing a sequential test with 100 requests
@@ -69,14 +70,16 @@ run_sequential_test 100 sequential_100_requests.csv
 # Performing a parallel test with 10 requests
 run_parallel_test 10 parallel_10_requests.csv
 
+```
+
 ## Results
 
 The generated results will be saved in the RESULTADOS folder in CSV format, with American number formatting (1,000.00).
 
 ## Contributions
+
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ---
 
-*This project was developed as part of the master's thesis at the Federal University of São Paulo (Unifesp).
-```
+\*This project was developed as part of the master's thesis at the Federal University of São Paulo (Unifesp).
