@@ -1,4 +1,4 @@
-# API Performance Testing for Digital Identities
+# API Performance Testing for Self-Sovereign Identity (SSI) Digital Identities
 
 This repository contains the scripts and results of the performance tests conducted as part of the master's project on the use of self-sovereign digital identities supported by blockchain.
 
