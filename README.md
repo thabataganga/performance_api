@@ -2,6 +2,8 @@
 
 This repository contains the scripts and results of the performance tests conducted as part of the master's project on the use of self-sovereign digital identities supported by blockchain.
 
+This test was developed to evaluate the SSI-API (https://github.com/thabataganga/SSI-backend).
+
 ## Repository Structure
 
 - **LOCAL/**: Contains tests for the development environment.
